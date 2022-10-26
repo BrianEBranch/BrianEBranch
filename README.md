@@ -21,15 +21,12 @@
 <h3 align="center">Welcome, I'm Brian Ramos!</h3>
 
 
-![Waving gif](https://ineedanime.com/wp-content/uploads/2021/09/hinata-shoyo-waving-Haikyuu-1.gif)
+<img style="height:150px;max-width:500px;width: expression(this.width > 500 ? 500: true);" id="img_DocPreview" src="https://ineedanime.com/wp-content/uploads/2021/09/hinata-shoyo-waving-Haikyuu-1.gif" />
 
-[![Personal Website][Personal-shield]](https://brianebranch.github.io/)
-
-[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/brianramos1/)
-
-### Contact
+### Contact(s)
 Brian Ramos - tup86891@temple.edu
 
+[![Personal Website][Personal-shield]](https://brianebranch.github.io/) [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/brianramos1/)
   <p align="center">
     
   </p>
@@ -45,9 +42,7 @@ Brian Ramos - tup86891@temple.edu
 <!-- ABOUT THE PROJECT -->
 
 ## Get to know me!
-- 
 - <a href="https://github.com/RamosBros/brianCollegeWork">All my work done in college... so far</a>
--
 -
 -
 -
