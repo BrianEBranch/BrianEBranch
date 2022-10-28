@@ -19,7 +19,7 @@
 <img src = "https://ineedanime.com/wp-content/uploads/2021/09/hinata-shoyo-waving-Haikyuu-1.gif"> <br/> -->
   
 ### Contact(s)
-Brian Ramos - tup86891@temple.edu
+Brian Ramos - tup86891@temple.edu </br>
 [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/brianramos1/)
   <p align="center">
     
