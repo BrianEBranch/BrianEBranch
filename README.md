@@ -39,7 +39,7 @@ I am a first year student at Temple University studying Computer Science and Phy
 
 <!-- ROADMAP -->
 
-## Roadmap/Goals!
+<!-- ## Roadmap/Goals!
 <details>
 
   <summary> Short Term Goals</summary>
@@ -57,7 +57,7 @@ I am a first year student at Temple University studying Computer Science and Phy
 - [ ] Graduate
 - [ ] Become a better student
 
-</details>
+</details> -->
 
 
 
