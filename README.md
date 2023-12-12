@@ -19,7 +19,7 @@
 <img src = "https://ineedanime.com/wp-content/uploads/2021/09/hinata-shoyo-waving-Haikyuu-1.gif"> <br/> -->
   
 ### Contact(s)
-Brian Ramos - tup86891@temple.edu </br>
+Brian Ramos - brian.ramos@temple.edu </br>
 [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/brianramos1/)
   <p align="center">
     
@@ -29,7 +29,7 @@ Brian Ramos - tup86891@temple.edu </br>
 <!-- ABOUT THE PROJECT -->
 
 ## Get to know me!
-I am a first year student at Temple University studying Computer Science and Physics, I'm passionate about Astrophyics and Software Engineering. I'm currently looking for ways to combine my knowledge of progamming and physics to help better understand and unlock the mysteries of the universe! <img src = "https://user-images.githubusercontent.com/78388073/198618105-c638a11a-5514-42b3-8d76-708da86d1a75.png" alt = "universe" height = "20"/>
+I am a Sophomore at Temple University studying Computer Science and Physics, and Mathematics! I'm super passionate about learning and I'm always looking for new ways to problem solve. Currently, I am focused on improving my skills in both Java and Python by working on various projects however, in the future I'm looking to go into some sector of Machine Learning/Artifical Intelligence! <img src = "https://user-images.githubusercontent.com/78388073/198618105-c638a11a-5514-42b3-8d76-708da86d1a75.png" alt = "universe" height = "20"/>
 - <a href="https://github.com/RamosBros/brianCollegeWork">All my work done in college... so far</a>
 - Currently I'm a research assistant at [Temple HCI Lab](http://stevemacn.github.io/people/) helping develop CoBoards, an application changing traditional digital whiteboards in the digital workshop world by remodeling template-collected design data.
 
