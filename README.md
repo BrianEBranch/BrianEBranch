@@ -29,7 +29,11 @@ Brian Ramos - brian.ramos@temple.edu </br>
 <!-- ABOUT THE PROJECT -->
 
 ## Get to know me!
-I am an undergrad at Temple University studying Computer Science, Physics, and Mathematics! I'm super passionate about learning and I'm always looking for new ways to problem solve. Currently, I am focused on improving my skills in both Java and Python by working on various projects however, in the future I'm looking to go into some sector of Machine Learning/Artifical Intelligence! <img src = "https://user-images.githubusercontent.com/78388073/198618105-c638a11a-5514-42b3-8d76-708da86d1a75.png" alt = "universe" height = "20"/>
+I am an undergrad at Temple University studying Computer Science, Physics, and Mathematics! I'm super passionate about learning and I'm always looking for new ways to problem solve. Currently, I am focused on improving my skills in both Java and Python by working on various projects however, I'm most interested in the future of Machine Learning/Artifical Intelligence! 
+
+I do have some projects that span across several different fields ive explored like ML, Data Visualization, Embedded, etc but they are private for personal reasons. 
+
+<img src = "https://user-images.githubusercontent.com/78388073/198618105-c638a11a-5514-42b3-8d76-708da86d1a75.png" alt = "universe" height = "20"/>
 - Feel free to look around and check out some of my repos!
 
 
